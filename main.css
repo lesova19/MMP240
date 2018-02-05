@@ -1,0 +1,12 @@
+body{
+	background: url(123150.jpg) no-repeat center center fixed;
+
+background-size: cover;
+
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+color: Azure; 
+}
+
+h1{
+margin-top: 20%;}
