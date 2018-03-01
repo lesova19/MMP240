@@ -1,0 +1,24 @@
+#nav{
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+#nav li{
+
+	display: inline;
+	padding: 15px;
+	margin: 0px;
+	font-size: 18px;}
+	body{
+	background: url(christopher-burns-194367.jpg) no-repeat center center fixed;
+
+background-size: cover;
+
+text-align: center;
+font-family: Blackoak Std, Helvetica, sans-serif;
+color: yellow; 
+}
+
+h1{
+	font-size: 55px;
+margin-top: 20%;}
